@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP and project documentation
 - 💞️ I’m looking to collaborate on code development and maintanance
 - 📫 How to reach me @RuhanDKremes on Instagram/ e-mail me ruhandk@hotmail.com
-- 😄 Pronouns: he/them
+- 😄 Pronouns: he/hum
 - ⚡ Fun fact: ...
 
 <!---
